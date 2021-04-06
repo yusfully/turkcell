@@ -36,11 +36,11 @@ const MainContent = () => {
           }
         ></DropDown>
       </div>
-      <div className="flex-row">
-        <div className="side-left g2-1of4 g-1of1">
+      <div className="flex-row multi">
+        <div className="side-left g2-1of4 g-1of1 pad-h-1">
           <Filters></Filters>
         </div>
-        <div className="side-right g2-3of4 g-1of1">
+        <div className="side-right g2-3of4 g-1of1 pad-h-1">
           <Games></Games>
         </div>
       </div>

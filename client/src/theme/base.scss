@@ -60,6 +60,14 @@ input:focus {
 .pad-2 {
   padding: $spacing * 2;
 }
+.pad-h-1 {
+  padding: 0 $spacing;
+}
+.flex-row {
+  &.multi {
+    margin: 0 $spacing * -1;
+  }
+}
 ul {
   padding: 0;
   margin: 0;
