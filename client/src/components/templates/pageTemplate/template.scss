@@ -1,0 +1,8 @@
+@import "../../../theme/variables.scss";
+
+.content {
+  background-color: var(--primary-bg);
+  color: var(--secondary-bg);
+  display: flex;
+  justify-content: center;
+}

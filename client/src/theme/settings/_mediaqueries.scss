@@ -1,0 +1,27 @@
+$min-phone-width: 320px !default;
+
+$screen-small: 664px !default;
+
+$screen-medium: 816px !default;
+
+$screen-large: 1280px !default;
+
+$screen-extralarge: 1312px !default;
+
+$screen-phone: 320px !default;
+
+$screen-phone-wide: 360px !default; // apparently still in use
+
+$screen-phablet: 412px !default;
+
+$screen-tablet: 480px !default;
+
+$screen-tablet-wide: 600px !default;
+
+$screen-tablet-wider: 720px !default;
+
+$screen: "only screen" !default;
+
+$landscape: "#{$screen} and (orientation: landscape)" !default;
+
+$portrait: "#{$screen} and (orientation: portrait)" !default;

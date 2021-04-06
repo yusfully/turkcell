@@ -1,0 +1,13 @@
+@import "../../../theme/variables.scss";
+.title {
+  &.title-large {
+    font-size: 28px;
+    font-weight: 600;
+    line-height: 36px;
+  }
+  &.title-medium {
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 36px;
+  }
+}

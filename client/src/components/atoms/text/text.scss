@@ -1,0 +1,10 @@
+@import "../../../theme/variables.scss";
+.text {
+  &.medium-text {
+    font-size: 16px;
+  }
+  &.large-text {
+    font-size: 20px;
+    line-height: 24px;
+  }
+}

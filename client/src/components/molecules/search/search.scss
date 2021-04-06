@@ -1,0 +1,25 @@
+@import "../../../theme/variables.scss";
+.searchbar {
+  position: relative;
+  & input {
+    font-size: 20px;
+  }
+  & .drop-down-elements-cover {
+    position: absolute;
+    width: 100%;
+    background: #fff;
+    height: 0;
+    overflow: hidden;
+    transition: height 0.25s ease-out;
+
+    & li {
+      padding: $spacing;
+      cursor: pointer;
+      text-align: left;
+      padding-left: 58px;
+      &:hover {
+        color: var(--primary-green);
+      }
+    }
+  }
+}

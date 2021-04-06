@@ -1,0 +1,3508 @@
+{
+  "games": [
+
+      {
+         "id":0,
+         "genreName":"Kids/Family",
+         "genre":[8,1,3],
+         "name":"et",
+         "status":1
+      },
+      {
+         "id":1,
+         "genreName":"Strategy",
+         "genre":[6,0],
+         "name":"asperiores",
+         "status":2
+      },
+      {
+         "id":2,
+         "genreName":"Action",
+         "genre":[1,5],
+         "name":"libero est",
+         "status":1
+      },
+      {
+         "id":3,
+         "genreName":"Kids/Family",
+         "genre":[8,2],
+         "name":"fugit et a dolor",
+         "status":2
+      },
+      {
+         "id":4,
+         "genreName":"Battle Royale",
+         "genre":[13],
+         "name":"ut repudiandae tenetur",
+         "status":0
+      },
+      {
+         "id":5,
+         "genreName":"Sports",
+         "genre":[7],
+         "name":"voluptas",
+         "status":2
+      },
+      {
+         "id":6,
+         "genreName":"Shooters",
+         "genre":[0,1],
+         "name":"molestiae in voluptas et",
+         "status":0
+      },
+      {
+         "id":7,
+         "genreName":"Casual",
+         "genre":[9,0],
+         "name":"aspernatur deleniti",
+         "status":2
+      },
+      {
+         "id":8,
+         "genreName":"Racing",
+         "genre":[3,7],
+         "name":"est placeat iste",
+         "status":2
+      },
+      {
+         "id":9,
+         "genreName":"Open World",
+         "genre":[15,13,1],
+         "name":"reprehenderit sunt provident et",
+         "status":2
+      },
+      {
+         "id":10,
+         "genreName":"RPG",
+         "genre":2,
+         "name":"sint facilis",
+         "status":0
+      },
+      {
+         "id":11,
+         "genreName":"Open World",
+         "genre":[15,13,1],
+         "name":"fugiat",
+         "status":0
+      },
+      {
+         "id":12,
+         "genreName":"Strategy",
+         "genre":[6,0],
+         "name":"et sequi",
+         "status":0
+      },
+      {
+         "id":13,
+         "genreName":"Demo",
+         "genre":[11,10,14],
+         "name":"aperiam porro quasi ea et",
+         "status":1
+      },
+      {
+         "id":14,
+         "genreName":"Casual",
+         "genre":[9],
+         "name":"omnis assumenda iure est",
+         "status":1
+      },
+      {
+         "id":15,
+         "genreName":"Open World",
+         "genre":[15,13,1],
+         "name":"facere tempore quasi",
+         "status":1
+      },
+      {
+         "id":16,
+         "genreName":"Adventure",
+         "genre":[14,1],
+         "name":"quae eum recusandae",
+         "status":0
+      },
+      {
+         "id":17,
+         "genreName":"Kids/Family",
+         "genre":[8,14],
+         "name":"dolorem non distinctio",
+         "status":1
+      },
+      {
+         "id":18,
+         "genreName":"Action",
+         "genre":1,
+         "name":"asperiores voluptates minima",
+         "status":1
+      },
+      {
+         "id":19,
+         "genreName":"Racing",
+         "genre":[3,12],
+         "name":"nobis quibusdam voluptatem",
+         "status":1
+      },
+      {
+         "id":20,
+         "genreName":"Adventure",
+         "genre":[14,1],
+         "name":"sed impedit",
+         "status":0
+      },
+      {
+         "id":21,
+         "genreName":"Sports",
+         "genre":[7],
+         "name":"quia",
+         "status":2
+      },
+      {
+         "id":22,
+         "genreName":"Battle Royale",
+         "genre":[13,4],
+         "name":"quia ab aut",
+         "status":1
+      },
+      {
+         "id":23,
+         "genreName":"MOBA/MMO",
+         "genre":[4,1],
+         "name":"rerum provident qui neque adipisci",
+         "status":0
+      },
+      {
+         "id":24,
+         "genreName":"Adventure",
+         "genre":[14,8],
+         "name":"et quod esse qui nam",
+         "status":2
+      },
+      {
+         "id":25,
+         "genreName":"Strategy",
+         "genre":[6,0],
+         "name":"error",
+         "status":1
+      },
+      {
+         "id":26,
+         "genreName":"Action",
+         "genre":1,
+         "name":"error qui labore",
+         "status":1
+      },
+      {
+         "id":27,
+         "genreName":"RPG",
+         "genre":2,
+         "name":"qui vel voluptas",
+         "status":0
+      },
+      {
+         "id":28,
+         "genreName":"Action",
+         "genre":1,
+         "name":"repellat vel",
+         "status":2
+      },
+      {
+         "id":29,
+         "genreName":"Horror",
+         "genre":[11],
+         "name":"sit et odio sunt",
+         "status":0
+      },
+      {
+         "id":30,
+         "genreName":"MOBA/MMO",
+         "genre":[4,1],
+         "name":"esse",
+         "status":2
+      },
+      {
+         "id":31,
+         "genreName":"Racing",
+         "genre":[3,12],
+         "name":"nemo dolores earum deleniti cumque",
+         "status":1
+      },
+      {
+         "id":32,
+         "genreName":"Action",
+         "genre":1,
+         "name":"aliquam quia aspernatur quo",
+         "status":2
+      },
+      {
+         "id":33,
+         "genreName":"Battle Royale",
+         "genre":[13,4],
+         "name":"dolor",
+         "status":1
+      },
+      {
+         "id":34,
+         "genreName":"Action",
+         "genre":1,
+         "name":"est unde sunt quam",
+         "status":2
+      },
+      {
+         "id":35,
+         "genreName":"Casual",
+         "genre":[9],
+         "name":"sit",
+         "status":0
+      },
+      {
+         "id":36,
+         "genreName":"Strategy",
+         "genre":[6],
+         "name":"quaerat ut voluptate ipsam explicabo",
+         "status":1
+      },
+      {
+         "id":37,
+         "genreName":"Horror",
+         "genre":[11],
+         "name":"autem",
+         "status":2
+      },
+      {
+         "id":38,
+         "genreName":"Simulation",
+         "genre":[5,9],
+         "name":"velit",
+         "status":0
+      },
+      {
+         "id":39,
+         "genreName":"Simulation",
+         "genre":[5,9],
+         "name":"tempora molestiae ipsa",
+         "status":0
+      },
+      {
+         "id":40,
+         "genreName":"RPG",
+         "genre":2,
+         "name":"eum consectetur ad voluptas ex",
+         "status":2
+      },
+      {
+         "id":41,
+         "genreName":"MOBA/MMO",
+         "genre":[4,1],
+         "name":"et vel mollitia",
+         "status":0
+      },
+      {
+         "id":42,
+         "genreName":"MOBA/MMO",
+         "genre":[4,1,5],
+         "name":"ut tempora",
+         "status":2
+      },
+      {
+         "id":43,
+         "genreName":"MOBA/MMO",
+         "genre":[4,1,5],
+         "name":"quia quidem nobis cumque voluptatem",
+         "status":0
+      },
+      {
+         "id":44,
+         "genreName":"Action",
+         "genre":1,
+         "name":"in qui harum suscipit",
+         "status":0
+      },
+      {
+         "id":45,
+         "genreName":"Demo",
+         "genre":[11,10,14],
+         "name":"corporis dolores ipsum",
+         "status":0
+      },
+      {
+         "id":46,
+         "genreName":"MOBA/MMO",
+         "genre":[4,1,5],
+         "name":"nulla debitis",
+         "status":2
+      },
+      {
+         "id":47,
+         "genreName":"Demo",
+         "genre":[10,15,4],
+         "name":"ipsa odio",
+         "status":0
+      },
+      {
+         "id":48,
+         "genreName":"Platformer",
+         "genre":[12],
+         "name":"qui harum",
+         "status":2
+      },
+      {
+         "id":49,
+         "genreName":"Platformer",
+         "genre":[12],
+         "name":"suscipit animi iste",
+         "status":0
+      },
+      {
+         "id":50,
+         "genreName":"Kids/Family",
+         "genre":[8,14],
+         "name":"dolore quam id consequatur non",
+         "status":0
+      },
+      {
+         "id":51,
+         "genreName":"Kids/Family",
+         "genre":[8,14],
+         "name":"voluptas vel excepturi est accusantium",
+         "status":1
+      },
+      {
+         "id":52,
+         "genreName":"Battle Royale",
+         "genre":[13,4],
+         "name":"illo saepe",
+         "status":2
+      },
+      {
+         "id":53,
+         "genreName":"Sports",
+         "genre":[7,5],
+         "name":"incidunt rerum ut",
+         "status":0
+      },
+      {
+         "id":54,
+         "genreName":"Adventure",
+         "genre":[14,8],
+         "name":"molestiae",
+         "status":2
+      },
+      {
+         "id":55,
+         "genreName":"RPG",
+         "genre":2,
+         "name":"aut dolores",
+         "status":0
+      },
+      {
+         "id":56,
+         "genreName":"Kids/Family",
+         "genre":[8,14],
+         "name":"eaque ipsa consequatur nihil sed",
+         "status":1
+      },
+      {
+         "id":57,
+         "genreName":"Horror",
+         "genre":[11],
+         "name":"et qui",
+         "status":0
+      },
+      {
+         "id":58,
+         "genreName":"Platformer",
+         "genre":[12],
+         "name":"et rerum facere magni",
+         "status":0
+      },
+      {
+         "id":59,
+         "genreName":"Action",
+         "genre":1,
+         "name":"libero",
+         "status":0
+      },
+      {
+         "id":60,
+         "genreName":"Casual",
+         "genre":[9],
+         "name":"ad odit ut error",
+         "status":0
+      },
+      {
+         "id":61,
+         "genreName":"Battle Royale",
+         "genre":[13,2,1],
+         "name":"velit debitis consectetur",
+         "status":2
+      },
+      {
+         "id":62,
+         "genreName":"Simulation",
+         "genre":[5],
+         "name":"enim cupiditate autem reprehenderit",
+         "status":2
+      },
+      {
+         "id":63,
+         "genreName":"Horror",
+         "genre":[11],
+         "name":"velit similique alias dolore possimus",
+         "status":1
+      },
+      {
+         "id":64,
+         "genreName":"Adventure",
+         "genre":[14,8],
+         "name":"non",
+         "status":0
+      },
+      {
+         "id":65,
+         "genreName":"Battle Royale",
+         "genre":[13,2,1],
+         "name":"tempora",
+         "status":0
+      },
+      {
+         "id":66,
+         "genreName":"Racing",
+         "genre":[3,12],
+         "name":"doloremque fuga amet",
+         "status":0
+      },
+      {
+         "id":67,
+         "genreName":"Horror",
+         "genre":[11],
+         "name":"rerum",
+         "status":1
+      },
+      {
+         "id":68,
+         "genreName":"Adventure",
+         "genre":[14,8],
+         "name":"ut rerum omnis",
+         "status":1
+      },
+      {
+         "id":69,
+         "genreName":"Sports",
+         "genre":[7,5],
+         "name":"cupiditate id",
+         "status":2
+      },
+      {
+         "id":70,
+         "genreName":"Simulation",
+         "genre":[5],
+         "name":"quia voluptatem cumque et",
+         "status":1
+      },
+      {
+         "id":71,
+         "genreName":"Simulation",
+         "genre":[5],
+         "name":"vero delectus fugiat libero",
+         "status":1
+      },
+      {
+         "id":72,
+         "genreName":"Simulation",
+         "genre":[5],
+         "name":"cum architecto atque alias",
+         "status":0
+      },
+      {
+         "id":73,
+         "genreName":"Simulation",
+         "genre":[5],
+         "name":"reprehenderit",
+         "status":0
+      },
+      {
+         "id":74,
+         "genreName":"Sports",
+         "genre":[7,5],
+         "name":"dolores facilis",
+         "status":2
+      },
+      {
+         "id":75,
+         "genreName":"MOBA/MMO",
+         "genre":[4,2,5],
+         "name":"repudiandae perferendis soluta",
+         "status":2
+      },
+      {
+         "id":76,
+         "genreName":"Casual",
+         "genre":[9],
+         "name":"earum cum recusandae numquam officiis",
+         "status":2
+      },
+      {
+         "id":77,
+         "genreName":"Platformer",
+         "genre":[12,1,2],
+         "name":"sequi praesentium",
+         "status":0
+      },
+      {
+         "id":78,
+         "genreName":"MOBA/MMO",
+         "genre":[4,2,5],
+         "name":"tempora enim mollitia",
+         "status":2
+      },
+      {
+         "id":79,
+         "genreName":"Shooters",
+
+         "genre":[0,1],
+         "name":"totam",
+         "status":2
+      },
+      {
+         "id":80,
+         "genreName":"Open World",
+         "genre":[15,3,11],
+         "name":"nesciunt",
+         "status":1
+      },
+      {
+         "id":81,
+         "genreName":"Platformer",
+         "genre":[12,1,2],
+         "name":"dolores quia ipsum",
+         "status":1
+      },
+      {
+         "id":82,
+         "genreName":"Demo",
+         "genre":[10,15,4],
+         "name":"porro harum velit aut qui",
+         "status":0
+      },
+      {
+         "id":83,
+         "genreName":"Demo",
+         "genre":[10,15,4],
+         "name":"occaecati est reprehenderit nulla inventore",
+         "status":1
+      },
+      {
+         "id":84,
+         "genreName":"Racing",
+         "genre":[3,1,4],
+         "name":"aperiam",
+         "status":1
+      },
+      {
+         "id":85,
+         "genreName":"Sports",
+         "genre":[7,15],
+         "name":"asperiores ipsum",
+         "status":0
+      },
+      {
+         "id":86,
+         "genreName":"Action",
+         "genre":1,
+         "name":"sunt consequatur ea velit",
+         "status":2
+      },
+      {
+         "id":87,
+         "genreName":"Demo",
+         "genre":[10,4],
+         "name":"et ullam perspiciatis voluptas",
+         "status":0
+      },
+      {
+         "id":88,
+         "genreName":"Demo",
+         "genre":[10,4],
+         "name":"tempora inventore exercitationem iure",
+         "status":2
+      },
+      {
+         "id":89,
+         "genreName":"Action",
+         "genre":1,
+         "name":"repudiandae",
+         "status":0
+      },
+      {
+         "id":90,
+         "genreName":"Simulation",
+         "genre":[5],
+         "name":"dolore excepturi",
+         "status":2
+      },
+      {
+         "id":91,
+         "genreName":"Horror",
+         "genre":[11,0],
+         "name":"voluptatem",
+         "status":1
+      },
+      {
+         "id":92,
+         "genreName":"Horror",
+         "genre":[11,0],
+         "name":"qui minima sed deleniti natus",
+         "status":1
+      },
+      {
+         "id":93,
+         "genreName":"Battle Royale",
+         "genre":[13,9,0],
+         "name":"quia occaecati",
+         "status":0
+      },
+      {
+         "id":94,
+         "genreName":"Horror",
+         "genre":[11,0],
+         "name":"temporibus delectus labore in voluptas",
+         "status":0
+      },
+      {
+         "id":95,
+         "genreName":"Open World",
+         "genre":[15,3,11],
+         "name":"est quaerat quod",
+         "status":2
+      },
+      {
+         "id":96,
+         "genreName":"Adventure",
+         "genre":[14,6],
+         "name":"distinctio est delectus",
+         "status":0
+      },
+      {
+         "id":97,
+         "genreName":"Kids/Family",
+         "genre":[8,14,5],
+         "name":"autem aperiam incidunt voluptas",
+         "status":1
+      },
+      {
+         "id":98,
+         "genreName":"Sports",
+         "genre":[7,15],
+         "name":"eos iure qui et sapiente",
+         "status":0
+      },
+      {
+         "id":99,
+         "genreName":"Action",
+         "genre":1,
+         "name":"est quas rerum",
+         "status":0
+      },
+      {
+         "id":100,
+         "genreName":"Action",
+         "genre":1,
+         "name":"mollitia voluptatibus enim",
+         "status":1
+      },
+      {
+         "id":101,
+         "genreName":"Casual",
+         "genre":[9],
+         "name":"nobis voluptate consequuntur",
+         "status":0
+      },
+      {
+         "id":102,
+         "genreName":"Demo",
+         "genre":[10,4],
+         "name":"eveniet et blanditiis ut ipsa",
+         "status":0
+      },
+      {
+         "id":103,
+         "genreName":"Kids/Family",
+         "genre":[8,14,5],
+         "name":"assumenda dolores qui",
+         "status":0
+      },
+      {
+         "id":104,
+         "genreName":"Action",
+         "genre":1,
+         "name":"qui harum suscipit nam",
+         "status":2
+      },
+      {
+         "id":105,
+         "genreName":"Demo",
+         "genre":[10,4],
+         "name":"harum iste sit quaerat ut",
+         "status":1
+      },
+      {
+         "id":106,
+         "genreName":"Open World",
+         "genre":[15,3,11],
+         "name":"numquam perspiciatis maiores voluptatem",
+         "status":2
+      },
+      {
+         "id":107,
+         "genreName":"Battle Royale",
+         "genre":[13,9,0],
+         "name":"maxime dicta quod amet",
+         "status":1
+      },
+      {
+         "id":108,
+         "genreName":"Platformer",
+         "genre":[12,1,2],
+         "name":"hic ab unde",
+         "status":0
+      },
+      {
+         "id":109,
+         "genreName":"RPG",
+         "genre":2,
+         "name":"labore ipsam excepturi placeat",
+         "status":2
+      },
+      {
+         "id":110,
+         "genreName":"Simulation",
+         "genre":[5],
+         "name":"accusantium quo qui culpa",
+         "status":0
+      },
+      {
+         "id":111,
+         "genreName":"RPG",
+         "genre":2,
+         "name":"quia iure rerum consequuntur",
+         "status":1
+      },
+      {
+         "id":112,
+         "genreName":"Racing",
+         "genre":[3,1,4],
+         "name":"facilis",
+         "status":0
+      },
+      {
+         "id":113,
+         "genreName":"Racing",
+         "genre":[3,1,4],
+         "name":"veritatis fugit vero occaecati",
+         "status":2
+      },
+      {
+         "id":114,
+         "genreName":"RPG",
+         "genre":2,
+         "name":"quaerat quia",
+         "status":2
+      },
+      {
+         "id":115,
+         "genreName":"Open World",
+         "genre":[15,5,8],
+         "name":"fugit tempora voluptas et ullam",
+         "status":1
+      },
+      {
+         "id":116,
+         "genreName":"Sports",
+         "genre":[7,15],
+         "name":"iure recusandae at sint distinctio",
+         "status":0
+      },
+      {
+         "id":117,
+         "genreName":"Adventure",
+         "genre":[14,6],
+         "name":"qui magni amet temporibus",
+         "status":0
+      },
+      {
+         "id":118,
+         "genreName":"Simulation",
+         "genre":[5],
+         "name":"maxime ducimus unde labore",
+         "status":1
+      },
+      {
+         "id":119,
+         "genreName":"Sports",
+         "genre":[7,4],
+         "name":"consequatur aliquid",
+         "status":0
+      },
+      {
+         "id":120,
+         "genreName":"Casual",
+         "genre":[9],
+         "name":"distinctio tempora",
+         "status":1
+      },
+      {
+         "id":121,
+         "genreName":"Casual",
+         "genre":[9,3],
+         "name":"nemo",
+         "status":0
+      },
+      {
+         "id":122,
+         "genreName":"Sports",
+         "genre":[7,4],
+         "name":"et voluptas sapiente aut cum",
+         "status":2
+      },
+      {
+         "id":123,
+         "genreName":"Racing",
+         "genre":[3,1,8],
+         "name":"ea ut",
+         "status":2
+      },
+      {
+         "id":124,
+         "genreName":"MOBA/MMO",
+         "genre":[4,2,5],
+         "name":"cum reiciendis dolorum quasi",
+         "status":2
+      },
+      {
+         "id":125,
+         "genreName":"Adventure",
+         "genre":[14,6],
+         "name":"aliquam non officiis non",
+         "status":1
+      },
+      {
+         "id":126,
+         "genreName":"Action",
+         "genre":1,
+         "name":"dolores amet",
+         "status":1
+      },
+      {
+         "id":127,
+         "genreName":"MOBA/MMO",
+         "genre":[4,12,2],
+         "name":"tempore omnis sequi rerum quis",
+         "status":0
+      },
+      {
+         "id":128,
+         "genreName":"Shooters",
+         "genre":[0,1],
+         "name":"qui nemo a eius",
+         "status":2
+      },
+      {
+         "id":129,
+         "genreName":"Kids/Family",
+         "genre":[8,14,5],
+         "name":"necessitatibus et qui sunt tenetur",
+         "status":0
+      },
+      {
+         "id":130,
+         "genreName":"RPG",
+         "genre":2,
+         "name":"repellendus itaque",
+         "status":2
+      },
+      {
+         "id":131,
+         "genreName":"MOBA/MMO",
+         "genre":[4,12,2],
+         "name":"dolor tenetur",
+         "status":1
+      },
+      {
+         "id":132,
+         "genreName":"Adventure",
+         "genre":[14,6,1],
+         "name":"repellendus architecto exercitationem unde",
+         "status":0
+      },
+      {
+         "id":133,
+         "genreName":"Battle Royale",
+         "genre":[13,9],
+         "name":"iste odio voluptatum autem esse",
+         "status":1
+      },
+      {
+         "id":134,
+         "genreName":"Battle Royale",
+         "genre":[13,9],
+         "name":"officia in qui",
+         "status":1
+      },
+      {
+         "id":135,
+         "genreName":"Kids/Family",
+         "genre":[8,14,5],
+         "name":"nesciunt accusamus vero",
+         "status":2
+      },
+      {
+         "id":136,
+         "genreName":"RPG",
+         "genre":2,
+         "name":"quos eius voluptas facilis unde",
+         "status":1
+      },
+      {
+         "id":137,
+         "genreName":"Kids/Family",
+         "genre":[8,14,15],
+         "name":"vero",
+         "status":2
+      },
+      {
+         "id":138,
+         "genreName":"Open World",
+         "genre":[15,5,8],
+         "name":"et occaecati dolorem doloribus ut",
+         "status":0
+      },
+      {
+         "id":139,
+         "genreName":"Racing",
+         "genre":[3,1,8],
+         "name":"exercitationem a earum eveniet ut",
+         "status":2
+      },
+      {
+         "id":140,
+         "genreName":"Horror",
+         "genre":[11,2],
+         "name":"exercitationem vero assumenda",
+         "status":0
+      },
+      {
+         "id":141,
+         "genreName":"Racing",
+         "genre":[3,10,8],
+         "name":"sunt aut",
+         "status":0
+      },
+      {
+         "id":142,
+         "genreName":"Racing",
+         "genre":[3,10,8],
+         "name":"sit placeat qui rem",
+         "status":1
+      },
+      {
+         "id":143,
+         "genreName":"Simulation",
+         "genre":[5,2],
+         "name":"error laudantium dolor consequuntur",
+         "status":2
+      },
+      {
+         "id":144,
+         "genreName":"Action",
+         "genre":1,
+         "name":"quos",
+         "status":0
+      },
+      {
+         "id":145,
+         "genreName":"Casual",
+         "genre":[9,3],
+         "name":"ipsa",
+         "status":0
+      },
+      {
+         "id":146,
+         "genreName":"Casual",
+         "genre":[9,3],
+         "name":"voluptas fugit delectus dignissimos architecto",
+         "status":2
+      },
+      {
+         "id":147,
+         "genreName":"Battle Royale",
+         "genre":[13,9],
+         "name":"eos nostrum voluptatem",
+         "status":0
+      },
+      {
+         "id":148,
+         "genreName":"Simulation",
+         "genre":[5,2],
+         "name":"dolores",
+         "status":0
+      },
+      {
+         "id":149,
+         "genreName":"Action",
+         "genre":1,
+         "name":"minus aut suscipit sint",
+         "status":0
+      },
+      {
+         "id":150,
+         "genreName":"Sports",
+         "genre":[7,4],
+         "name":"tenetur quaerat ut",
+         "status":0
+      },
+      {
+         "id":151,
+         "genreName":"Casual",
+         "genre":[9,3],
+         "name":"et",
+         "status":2
+      },
+      {
+         "id":152,
+         "genreName":"Battle Royale",
+         "genre":[13],
+         "name":"qui ullam dolore",
+         "status":0
+      },
+      {
+         "id":153,
+         "genreName":"Action",
+         "genre":1,
+         "name":"ipsa deleniti perspiciatis vel ex",
+         "status":2
+      },
+      {
+         "id":154,
+         "genreName":"Kids/Family",
+         "genre":[8,14,15],
+         "name":"laudantium voluptatibus corrupti",
+         "status":0
+      },
+      {
+         "id":155,
+         "genreName":"Kids/Family",
+         "genre":[8,14,15],
+         "name":"minima est ut eum",
+         "status":0
+      },
+      {
+         "id":156,
+         "genreName":"Sports",
+         "genre":[7,4],
+         "name":"suscipit provident molestiae et aut",
+         "status":2
+      },
+      {
+         "id":157,
+         "genreName":"Sports",
+         "genre":[7,4],
+         "name":"repudiandae id laudantium",
+         "status":1
+      },
+      {
+         "id":158,
+         "genreName":"Sports",
+         "genre":[7,4,3],
+         "name":"qui quaerat est",
+         "status":0
+      },
+      {
+         "id":159,
+         "genreName":"Shooters",
+         "genre":[0,12],
+         "name":"est neque",
+         "status":1
+      },
+      {
+         "id":160,
+         "genreName":"Simulation",
+         "genre":[5,2,12],
+         "name":"delectus aliquam magni",
+         "status":0
+      },
+      {
+         "id":161,
+         "genreName":"Shooters",
+         "genre":[0,12],
+         "name":"ut vitae voluptatum nesciunt",
+         "status":1
+      },
+      {
+         "id":162,
+         "genreName":"Demo",
+         "genre":[10,8],
+         "name":"et dolor",
+         "status":2
+      },
+      {
+         "id":163,
+         "genreName":"MOBA/MMO",
+         "genre":[4,12,11],
+         "name":"minima",
+         "status":2
+      },
+      {
+         "id":164,
+         "genreName":"Demo",
+         "genre":[10,8],
+         "name":"atque",
+         "status":2
+      },
+      {
+         "id":165,
+         "genreName":"Action",
+         "genre":1,
+         "name":"consequuntur quibusdam sit",
+         "status":0
+      },
+      {
+         "id":166,
+         "genreName":"Strategy",
+         "genre":[6],
+         "name":"et",
+         "status":1
+      },
+      {
+         "id":167,
+         "genreName":"Casual",
+         "genre":[9,12],
+         "name":"sint quasi repellendus tempore qui",
+         "status":0
+      },
+      {
+         "id":168,
+         "genreName":"Casual",
+         "genre":[9,12],
+         "name":"blanditiis consequatur nemo",
+         "status":0
+      },
+      {
+         "id":169,
+         "genreName":"Racing",
+         "genre":[3,10,8],
+         "name":"veniam voluptas explicabo molestiae saepe",
+         "status":0
+      },
+      {
+         "id":170,
+         "genreName":"Casual",
+         "genre":[9,12],
+         "name":"alias quia et cupiditate",
+         "status":1
+      },
+      {
+         "id":171,
+         "genreName":"Racing",
+         "genre":[3,10],
+         "name":"harum et corrupti molestias quisquam",
+         "status":1
+      },
+      {
+         "id":172,
+         "genreName":"Action",
+         "genre":1,
+         "name":"ad dolore hic",
+         "status":1
+      },
+      {
+         "id":173,
+         "genreName":"Horror",
+         "genre":[11,2],
+         "name":"rerum aut",
+         "status":1
+      },
+      {
+         "id":174,
+         "genreName":"Strategy",
+         "genre":[6],
+         "name":"consequuntur aliquid dolor",
+         "status":2
+      },
+      {
+         "id":175,
+         "genreName":"Action",
+         "genre":1,
+         "name":"inventore incidunt",
+         "status":2
+      },
+      {
+         "id":176,
+         "genreName":"MOBA/MMO",
+         "genre":[4,12,11],
+         "name":"corporis sequi impedit",
+         "status":2
+      },
+      {
+         "id":177,
+         "genreName":"Kids/Family",
+         "genre":[8,4,7],
+         "name":"illo",
+         "status":0
+      },
+      {
+         "id":178,
+         "genreName":"Sports",
+         "genre":[7,4,3],
+         "name":"alias",
+         "status":0
+      },
+      {
+         "id":179,
+         "genreName":"Adventure",
+         "genre":[14,6,1],
+         "name":"maiores fugit atque",
+         "status":0
+      },
+      {
+         "id":180,
+         "genreName":"Demo",
+         "genre":[10,8],
+         "name":"harum",
+         "status":0
+      },
+      {
+         "id":181,
+         "genreName":"Simulation",
+         "genre":[5,2,12],
+         "name":"deleniti autem autem doloremque aut",
+         "status":0
+      },
+      {
+         "id":182,
+         "genreName":"Racing",
+         "genre":[3,10],
+         "name":"repellendus",
+         "status":1
+      },
+      {
+         "id":183,
+         "genreName":"Horror",
+         "genre":[11,2],
+         "name":"praesentium consequatur ut",
+         "status":2
+      },
+      {
+         "id":184,
+         "genreName":"Open World",
+         "genre":[15,5,8],
+         "name":"iure",
+         "status":2
+      },
+      {
+         "id":185,
+         "genreName":"Kids/Family",
+         "genre":[8,4,7],
+         "name":"odit",
+         "status":0
+      },
+      {
+         "id":186,
+         "genreName":"Racing",
+         "genre":[3,10],
+         "name":"eos et minus reprehenderit",
+         "status":1
+      },
+      {
+         "id":187,
+         "genreName":"RPG",
+         "genre":2,
+         "name":"quibusdam aut laborum voluptatem",
+         "status":1
+      },
+      {
+         "id":188,
+         "genreName":"Casual",
+         "genre":[9,12],
+         "name":"maiores dicta",
+         "status":1
+      },
+      {
+         "id":189,
+         "genreName":"Simulation",
+         "genre":[5,2,12],
+         "name":"voluptates rerum sint sequi",
+         "status":0
+      },
+      {
+         "id":190,
+         "genreName":"Casual",
+         "genre":[9,2],
+         "name":"dolorem eum",
+         "status":2
+      },
+      {
+         "id":191,
+         "genreName":"Racing",
+         "genre":[3],
+         "name":"praesentium",
+         "status":2
+      },
+      {
+         "id":192,
+         "genreName":"Adventure",
+         "genre":[14,6,1],
+         "name":"nulla natus vel",
+         "status":0
+      },
+      {
+         "id":193,
+         "genreName":"Casual",
+         "genre":[9,2],
+         "name":"magnam enim repellat officia",
+         "status":2
+      },
+      {
+         "id":194,
+         "genreName":"Horror",
+         "genre":[11,2],
+         "name":"sit",
+         "status":2
+      },
+      {
+         "id":195,
+         "genreName":"Casual",
+         "genre":[9,2,1],
+         "name":"amet nesciunt",
+         "status":1
+      },
+      {
+         "id":196,
+         "genreName":"Sports",
+         "genre":[7,4,3],
+         "name":"magnam totam",
+         "status":2
+      },
+      {
+         "id":197,
+         "genreName":"Strategy",
+         "genre":[6],
+         "name":"ullam exercitationem",
+         "status":2
+      },
+      {
+         "id":198,
+         "genreName":"Battle Royale",
+         "genre":[13,7],
+         "name":"hic eius sed",
+         "status":0
+      },
+      {
+         "id":199,
+         "genreName":"Demo",
+         "genre":[10,8],
+         "name":"dolorem",
+         "status":1
+      },
+      {
+         "id":200,
+         "genreName":"Demo",
+         "genre":[10,7],
+         "name":"est qui dignissimos ipsa eos",
+         "status":2
+      },
+      {
+         "id":201,
+         "genreName":"Casual",
+         "genre":[9,2,1],
+         "name":"in illo",
+         "status":2
+      },
+      {
+         "id":202,
+         "genreName":"RPG",
+         "genre":2,
+         "name":"dolorem",
+         "status":1
+      },
+      {
+         "id":203,
+         "genreName":"Strategy",
+         "genre":[6],
+         "name":"sunt reiciendis est placeat",
+         "status":2
+      },
+      {
+         "id":204,
+         "genreName":"Battle Royale",
+         "genre":[13,12],
+         "name":"occaecati",
+         "status":2
+      },
+      {
+         "id":205,
+         "genreName":"Racing",
+         "genre":[3],
+         "name":"recusandae",
+         "status":1
+      },
+      {
+         "id":206,
+         "genreName":"Casual",
+         "genre":[9,2,1],
+         "name":"voluptatem quibusdam",
+         "status":0
+      },
+      {
+         "id":207,
+         "genreName":"Strategy",
+         "genre":[6],
+         "name":"et accusamus",
+         "status":0
+      },
+      {
+         "id":208,
+         "genreName":"Platformer",
+         "genre":[12,15,1],
+         "name":"optio minus est",
+         "status":0
+      },
+      {
+         "id":209,
+         "genreName":"RPG",
+         "genre":2,
+         "name":"voluptatum cupiditate",
+         "status":1
+      },
+      {
+         "id":210,
+         "genreName":"Strategy",
+         "genre":[6,9,15,0],
+         "name":"ut laboriosam neque",
+         "status":0
+      },
+      {
+         "id":211,
+         "genreName":"Racing",
+         "genre":[3],
+         "name":"rerum vero aut",
+         "status":0
+      },
+      {
+         "id":212,
+         "genreName":"Casual",
+         "genre":[9,2,14],
+         "name":"quod qui quam qui sunt",
+         "status":0
+      },
+      {
+         "id":213,
+         "genreName":"Strategy",
+         "genre":[6,9,15,0],
+         "name":"deleniti reprehenderit nemo itaque sint",
+         "status":1
+      },
+      {
+         "id":214,
+         "genreName":"Shooters",
+         "genre":[0,8,2],
+         "name":"iste voluptates qui nihil",
+         "status":2
+      },
+      {
+         "id":215,
+         "genreName":"Demo",
+         "genre":[10,7],
+         "name":"a aut quia",
+         "status":1
+      },
+      {
+         "id":216,
+         "genreName":"Battle Royale",
+         "genre":[13,12],
+         "name":"eaque perferendis est non optio",
+         "status":0
+      },
+      {
+         "id":217,
+         "genreName":"Shooters",
+         "genre":[0,8,2],
+         "name":"aut",
+         "status":2
+      },
+      {
+         "id":218,
+         "genreName":"RPG",
+         "genre":2,
+         "name":"perferendis",
+         "status":0
+      },
+      {
+         "id":219,
+         "genreName":"Open World",
+         "genre":[15,5,8],
+         "name":"quia ullam tempore sequi",
+         "status":1
+      },
+      {
+         "id":220,
+         "genreName":"MOBA/MMO",
+         "genre":[4,12,11],
+         "name":"provident",
+         "status":2
+      },
+      {
+         "id":221,
+         "genreName":"Platformer",
+         "genre":[12,15,1],
+         "name":"modi",
+         "status":1
+      },
+      {
+         "id":222,
+         "genreName":"Sports",
+         "genre":[7,4,13],
+         "name":"saepe quod ea aliquid labore",
+         "status":0
+      },
+      {
+         "id":223,
+         "genreName":"MOBA/MMO",
+         "genre":[4,10],
+         "name":"laboriosam rerum perferendis eveniet",
+         "status":0
+      },
+      {
+         "id":224,
+         "genreName":"Adventure",
+         "genre":[14,6,1],
+         "name":"perferendis sit earum deleniti ut",
+         "status":2
+      },
+      {
+         "id":225,
+         "genreName":"Battle Royale",
+         "genre":[13,12],
+         "name":"quos non",
+         "status":2
+      },
+      {
+         "id":226,
+         "genreName":"Kids/Family",
+         "genre":[8,4,7],
+         "name":"dolor rem exercitationem est nihil",
+         "status":1
+      },
+      {
+         "id":227,
+         "genreName":"Shooters",
+         "genre":[0,8,2,1],
+         "name":"eos quia",
+         "status":2
+      },
+      {
+         "id":228,
+         "genreName":"Sports",
+         "genre":[7,4,13],
+         "name":"non sit",
+         "status":2
+      },
+      {
+         "id":229,
+         "genreName":"RPG",
+         "genre":2,
+         "name":"aut laboriosam nulla sed",
+         "status":2
+      },
+      {
+         "id":230,
+         "genreName":"Adventure",
+         "genre":[14,2,10],
+         "name":"veniam",
+         "status":2
+      },
+      {
+         "id":231,
+         "genreName":"Demo",
+         "genre":[10,7],
+         "name":"qui",
+         "status":1
+      },
+      {
+         "id":232,
+         "genreName":"MOBA/MMO",
+         "genre":[4,10],
+         "name":"laboriosam deleniti",
+         "status":1
+      },
+      {
+         "id":233,
+         "genreName":"Sports",
+         "genre":[7,4,13],
+         "name":"quisquam qui aut et quos",
+         "status":1
+      },
+      {
+         "id":234,
+         "genreName":"Horror",
+         "genre":[11,9],
+         "name":"non consequatur ipsum molestiae et",
+         "status":0
+      },
+      {
+         "id":235,
+         "genreName":"Shooters",
+         "genre":[0,8,2,1],
+         "name":"et repellat voluptatum fugit",
+         "status":1
+      },
+      {
+         "id":236,
+         "genreName":"Open World",
+         "genre":[15,5,8],
+         "name":"rerum",
+         "status":0
+      },
+      {
+         "id":237,
+         "genreName":"Battle Royale",
+         "genre":[13,11,0],
+         "name":"hic placeat recusandae",
+         "status":0
+      },
+      {
+         "id":238,
+         "genreName":"RPG",
+         "genre":2,
+         "name":"consequatur",
+         "status":2
+      },
+      {
+         "id":239,
+         "genreName":"Open World",
+         "genre":[15,14,8],
+         "name":"ipsam",
+         "status":2
+      },
+      {
+         "id":240,
+         "genreName":"Demo",
+         "genre":[10,13],
+         "name":"ut rerum dolores neque",
+         "status":0
+      },
+      {
+         "id":241,
+         "genreName":"MOBA/MMO",
+         "genre":[4,5],
+         "name":"quaerat dolor sed voluptas et",
+         "status":1
+      },
+      {
+         "id":242,
+         "genreName":"RPG",
+         "genre":2,
+         "name":"quo et voluptatibus",
+         "status":2
+      },
+      {
+         "id":243,
+         "genreName":"Horror",
+         "genre":[11,9],
+         "name":"hic quasi accusantium",
+         "status":1
+      },
+      {
+         "id":244,
+         "genreName":"Horror",
+         "genre":[11,9],
+         "name":"ex dolorem",
+         "status":1
+      },
+      {
+         "id":245,
+         "genreName":"Action",
+         "genre":1,
+         "name":"laudantium a",
+         "status":2
+      },
+      {
+         "id":246,
+         "genreName":"Demo",
+         "genre":[10,13],
+         "name":"architecto",
+         "status":2
+      },
+      {
+         "id":247,
+         "genreName":"Platformer",
+         "genre":[12,15,1],
+         "name":"libero cumque",
+         "status":0
+      },
+      {
+         "id":248,
+         "genreName":"Battle Royale",
+         "genre":[13,11,0],
+         "name":"quidem sequi assumenda reprehenderit",
+         "status":1
+      },
+      {
+         "id":249,
+         "genreName":"Racing",
+         "genre":[3],
+         "name":"atque soluta",
+         "status":0
+      },
+      {
+         "id":250,
+         "genreName":"Racing",
+         "genre":[3],
+         "name":"perspiciatis harum culpa impedit",
+         "status":2
+      },
+      {
+         "id":251,
+         "genreName":"RPG",
+         "genre":2,
+         "name":"qui ut",
+         "status":1
+      },
+      {
+         "id":252,
+         "genreName":"MOBA/MMO",
+         "genre":[4,5],
+         "name":"id tempora excepturi qui",
+         "status":1
+      },
+      {
+         "id":253,
+         "genreName":"Kids/Family",
+         "genre":[8,4,7,10],
+         "name":"perspiciatis omnis minus dignissimos",
+         "status":0
+      },
+      {
+         "id":254,
+         "genreName":"Platformer",
+         "genre":[12,15,1],
+         "name":"expedita aut voluptas",
+         "status":2
+      },
+      {
+         "id":255,
+         "genreName":"Battle Royale",
+         "genre":[13,11,0],
+         "name":"porro temporibus",
+         "status":0
+      },
+      {
+         "id":256,
+         "genreName":"Horror",
+         "genre":[11,9],
+         "name":"aut aut ea qui",
+         "status":2
+      },
+      {
+         "id":257,
+         "genreName":"Shooters",
+         "genre":[0,7,4],
+         "name":"numquam delectus",
+         "status":0
+      },
+      {
+         "id":258,
+         "genreName":"Platformer",
+         "genre":[12,15,1],
+         "name":"consectetur quia modi",
+         "status":1
+      },
+      {
+         "id":259,
+         "genreName":"Casual",
+         "genre":[9,2,14],
+         "name":"officiis harum ut assumenda",
+         "status":0
+      },
+      {
+         "id":260,
+         "genreName":"Battle Royale",
+         "genre":[13,0],
+         "name":"error aut explicabo",
+         "status":0
+      },
+      {
+         "id":261,
+         "genreName":"Kids/Family",
+         "genre":[8,4,7,10],
+         "name":"aliquam mollitia similique soluta quod",
+         "status":0
+      },
+      {
+         "id":262,
+         "genreName":"Battle Royale",
+         "genre":[13,0],
+         "name":"expedita",
+         "status":0
+      },
+      {
+         "id":263,
+         "genreName":"Battle Royale",
+         "genre":[13,5],
+         "name":"sit magnam doloremque quae",
+         "status":2
+      },
+      {
+         "id":264,
+         "genreName":"Action",
+         "genre":1,
+         "name":"blanditiis earum veniam quos",
+         "status":1
+      },
+      {
+         "id":265,
+         "genreName":"Action",
+         "genre":1,
+         "name":"minima",
+         "status":1
+      },
+      {
+         "id":266,
+         "genreName":"MOBA/MMO",
+         "genre":[4,5],
+         "name":"quidem veritatis voluptas ut",
+         "status":0
+      },
+      {
+         "id":267,
+         "genreName":"Kids/Family",
+         "genre":[8,4,7,10],
+         "name":"omnis quasi dolores et",
+         "status":0
+      },
+      {
+         "id":268,
+         "genreName":"Platformer",
+         "genre":[12,15,1],
+         "name":"voluptatem qui autem",
+         "status":2
+      },
+      {
+         "id":269,
+         "genreName":"Sports",
+         "genre":[7,9,11],
+         "name":"doloremque et",
+         "status":1
+      },
+      {
+         "id":270,
+         "genreName":"Sports",
+         "genre":[7,9,11],
+         "name":"nostrum culpa velit temporibus",
+         "status":2
+      },
+      {
+         "id":271,
+         "genreName":"Adventure",
+         "genre":[14,2,10],
+         "name":"asperiores quibusdam libero explicabo aut",
+         "status":1
+      },
+      {
+         "id":272,
+         "genreName":"Action",
+         "genre":1,
+         "name":"eaque quae ullam earum",
+         "status":1
+      },
+      {
+         "id":273,
+         "genreName":"Platformer",
+         "genre":[12,1,10],
+         "name":"fugit dignissimos",
+         "status":0
+      },
+      {
+         "id":274,
+         "genreName":"MOBA/MMO",
+         "genre":[4,1],
+         "name":"facilis aut omnis temporibus",
+         "status":2
+      },
+      {
+         "id":275,
+         "genreName":"Kids/Family",
+         "genre":[8,4,7,10],
+         "name":"eaque illo",
+         "status":1
+      },
+      {
+         "id":276,
+         "genreName":"Battle Royale",
+         "genre":[13,5],
+         "name":"id officiis animi",
+         "status":2
+      },
+      {
+         "id":277,
+         "genreName":"Sports",
+         "genre":[7,9,11],
+         "name":"commodi",
+         "status":1
+      },
+      {
+         "id":278,
+         "genreName":"Demo",
+         "genre":[10,13],
+         "name":"voluptatem voluptatem",
+         "status":2
+      },
+      {
+         "id":279,
+         "genreName":"Casual",
+         "genre":[9,2,14],
+         "name":"commodi",
+         "status":1
+      },
+      {
+         "id":280,
+         "genreName":"Adventure",
+         "genre":[14,2,10],
+         "name":"earum sunt",
+         "status":1
+      },
+      {
+         "id":281,
+         "genreName":"Casual",
+         "genre":[9,12,14],
+         "name":"ipsam quam officia reprehenderit",
+         "status":1
+      },
+      {
+         "id":282,
+         "genreName":"Strategy",
+         "genre":[6,9,15,0,2],
+         "name":"veritatis est",
+         "status":1
+      },
+      {
+         "id":283,
+         "genreName":"Shooters",
+         "genre":[0,7,4],
+         "name":"et eaque iure",
+         "status":2
+      },
+      {
+         "id":284,
+         "genreName":"Platformer",
+         "genre":[12,1,10],
+         "name":"qui enim ut enim hic",
+         "status":2
+      },
+      {
+         "id":285,
+         "genreName":"Demo",
+         "genre":[10,13],
+         "name":"voluptatem nisi molestiae expedita modi",
+         "status":1
+      },
+      {
+         "id":286,
+         "genreName":"Action",
+         "genre":1,
+         "name":"hic nesciunt recusandae aut quas",
+         "status":0
+      },
+      {
+         "id":287,
+         "genreName":"Simulation",
+         "genre":[5,2,12,1],
+         "name":"non perferendis alias",
+         "status":1
+      },
+      {
+         "id":288,
+         "genreName":"Shooters",
+         "genre":[0,11,6],
+         "name":"aperiam quidem veritatis animi amet",
+         "status":0
+      },
+      {
+         "id":289,
+         "genreName":"Demo",
+         "genre":[10,13],
+         "name":"sint est veritatis saepe quidem",
+         "status":2
+      },
+      {
+         "id":290,
+         "genreName":"Demo",
+         "genre":[10],
+         "name":"id aliquam reiciendis dignissimos",
+         "status":0
+      },
+      {
+         "id":291,
+         "genreName":"Kids/Family",
+         "genre":[8,7,13,0],
+         "name":"sunt itaque deserunt",
+         "status":0
+      },
+      {
+         "id":292,
+         "genreName":"Platformer",
+         "genre":[12,1,10],
+         "name":"sit tempora ullam ea alias",
+         "status":2
+      },
+      {
+         "id":293,
+         "genreName":"Strategy",
+         "genre":[6,9,15,0,2],
+         "name":"iure aut enim id ipsum",
+         "status":0
+      },
+      {
+         "id":294,
+         "genreName":"Shooters",
+         "genre":[0,11,6],
+         "name":"optio enim sunt modi",
+         "status":0
+      },
+      {
+         "id":295,
+         "genreName":"Casual",
+         "genre":[9,12,14],
+         "name":"molestias dignissimos aut et molestiae",
+         "status":1
+      },
+      {
+         "id":296,
+         "genreName":"Platformer",
+         "genre":[12,1,10],
+         "name":"ut aspernatur doloremque minima et",
+         "status":0
+      },
+      {
+         "id":297,
+         "genreName":"Adventure",
+         "genre":[14,12,10],
+         "name":"est sit quam facere",
+         "status":2
+      },
+      {
+         "id":298,
+         "genreName":"Open World",
+         "genre":[15,14,8],
+         "name":"aliquid perferendis",
+         "status":0
+      },
+      {
+         "id":299,
+         "genreName":"Shooters",
+         "genre":[0,11,6],
+         "name":"consectetur consectetur quibusdam illum sint",
+         "status":0
+      },
+      {
+         "id":300,
+         "genreName":"Sports",
+         "genre":[7,9,11],
+         "name":"consequatur aperiam dolore quam aut",
+         "status":0
+      },
+      {
+         "id":301,
+         "genreName":"Kids/Family",
+         "genre":[8,7,13,0],
+         "name":"vitae reprehenderit optio iusto alias",
+         "status":1
+      },
+      {
+         "id":302,
+         "genreName":"Platformer",
+         "genre":[12,1,10],
+         "name":"nobis ut esse",
+         "status":2
+      },
+      {
+         "id":303,
+         "genreName":"Battle Royale",
+         "genre":[13,8],
+         "name":"nesciunt omnis",
+         "status":0
+      },
+      {
+         "id":304,
+         "genreName":"Casual",
+         "genre":[9,12,14],
+         "name":"recusandae voluptatem sapiente asperiores quia",
+         "status":0
+      },
+      {
+         "id":305,
+         "genreName":"Action",
+         "genre":1,
+         "name":"ipsa",
+         "status":2
+      },
+      {
+         "id":306,
+         "genreName":"MOBA/MMO",
+         "genre":[4,1],
+         "name":"qui et doloremque dolor ut",
+         "status":1
+      },
+      {
+         "id":307,
+         "genreName":"RPG",
+         "genre":2,
+         "name":"mollitia",
+         "status":2
+      },
+      {
+         "id":308,
+         "genreName":"Action",
+         "genre":1,
+         "name":"doloribus aliquid sit",
+         "status":0
+      },
+      {
+         "id":309,
+         "genreName":"MOBA/MMO",
+         "genre":[4,1],
+         "name":"sed ut ad accusamus",
+         "status":1
+      },
+      {
+         "id":310,
+         "genreName":"Demo",
+         "genre":[10],
+         "name":"cupiditate aut",
+         "status":0
+      },
+      {
+         "id":311,
+         "genreName":"Battle Royale",
+         "genre":[13,8],
+         "name":"placeat sit praesentium",
+         "status":0
+      },
+      {
+         "id":312,
+         "genreName":"Racing",
+         "genre":[3,0],
+         "name":"vitae",
+         "status":2
+      },
+      {
+         "id":313,
+         "genreName":"RPG",
+         "genre":2,
+         "name":"non eum",
+         "status":0
+      },
+      {
+         "id":314,
+         "genreName":"Shooters",
+         "genre":[0],
+         "name":"sunt incidunt",
+         "status":2
+      },
+      {
+         "id":315,
+         "genreName":"Simulation",
+         "genre":[5,2,12,1],
+         "name":"quasi",
+         "status":1
+      },
+      {
+         "id":316,
+         "genreName":"Horror",
+         "genre":[11,9,8],
+         "name":"culpa eveniet quia doloremque autem",
+         "status":0
+      },
+      {
+         "id":317,
+         "genreName":"Open World",
+         "genre":[15,14,8],
+         "name":"voluptatem",
+         "status":2
+      },
+      {
+         "id":318,
+         "genreName":"MOBA/MMO",
+         "genre":[4,1],
+         "name":"deleniti et et",
+         "status":2
+      },
+      {
+         "id":319,
+         "genreName":"Strategy",
+         "genre":[6,9,15,0,2],
+         "name":"commodi commodi ut",
+         "status":0
+      },
+      {
+         "id":320,
+         "genreName":"Shooters",
+         "genre":[0],
+         "name":"quo aperiam illo porro",
+         "status":0
+      },
+      {
+         "id":321,
+         "genreName":"Kids/Family",
+         "genre":[8,7,13,0],
+         "name":"ipsa minus voluptate sunt vitae",
+         "status":0
+      },
+      {
+         "id":322,
+         "genreName":"Demo",
+         "genre":[10],
+         "name":"et itaque quo",
+         "status":1
+      },
+      {
+         "id":323,
+         "genreName":"RPG",
+         "genre":2,
+         "name":"deserunt",
+         "status":2
+      },
+      {
+         "id":324,
+         "genreName":"Strategy",
+         "genre":[6,9,15,0,2],
+         "name":"voluptas animi vel",
+         "status":1
+      },
+      {
+         "id":325,
+         "genreName":"Demo",
+         "genre":[10],
+         "name":"commodi necessitatibus",
+         "status":0
+      },
+      {
+         "id":326,
+         "genreName":"Adventure",
+         "genre":[14,12,10],
+         "name":"laborum quibusdam repudiandae nisi commodi",
+         "status":2
+      },
+      {
+         "id":327,
+         "genreName":"Kids/Family",
+         "genre":[8,7,13,0],
+         "name":"dolor eveniet illum aut",
+         "status":2
+      },
+      {
+         "id":328,
+         "genreName":"Battle Royale",
+         "genre":[13,8,4,2],
+         "name":"et in doloribus",
+         "status":1
+      },
+      {
+         "id":329,
+         "genreName":"Action",
+         "genre":1,
+         "name":"adipisci veniam tempore nam",
+         "status":0
+      },
+      {
+         "id":330,
+         "genreName":"Sports",
+         "genre":[7,9,11,10],
+         "name":"maxime accusantium provident sit",
+         "status":1
+      },
+      {
+         "id":331,
+         "genreName":"Battle Royale",
+         "genre":[13,8,4,2],
+         "name":"hic praesentium ut",
+         "status":2
+      },
+      {
+         "id":332,
+         "genreName":"Battle Royale",
+         "genre":[13,8,4,2],
+         "name":"nobis ullam eaque",
+         "status":2
+      },
+      {
+         "id":333,
+         "genreName":"Casual",
+         "genre":[9,12,14,1],
+         "name":"repellat aut eum",
+         "status":1
+      },
+      {
+         "id":334,
+         "genreName":"RPG",
+         "genre":2,
+         "name":"veniam iusto porro",
+         "status":1
+      },
+      {
+         "id":335,
+         "genreName":"Shooters",
+         "genre":[0],
+         "name":"aut nihil",
+         "status":0
+      },
+      {
+         "id":336,
+         "genreName":"Shooters",
+         "genre":[0],
+         "name":"sint",
+         "status":0
+      },
+      {
+         "id":337,
+         "genreName":"Simulation",
+         "genre":[5,2,12,1],
+         "name":"deleniti distinctio",
+         "status":0
+      },
+      {
+         "id":338,
+         "genreName":"Racing",
+         "genre":[3,0],
+         "name":"facere sapiente autem",
+         "status":2
+      },
+      {
+         "id":339,
+         "genreName":"Open World",
+         "genre":[15,14,8],
+         "name":"ullam excepturi",
+         "status":1
+      },
+      {
+         "id":340,
+         "genreName":"Sports",
+         "genre":[7,9,11,10],
+         "name":"est ut",
+         "status":0
+      },
+      {
+         "id":341,
+         "genreName":"Shooters",
+         "genre":[0],
+         "name":"eligendi",
+         "status":1
+      },
+      {
+         "id":342,
+         "genreName":"Kids/Family",
+         "genre":[8,7,13,0],
+         "name":"explicabo rerum",
+         "status":1
+      },
+      {
+         "id":343,
+         "genreName":"Platformer",
+         "genre":[12,5,2],
+         "name":"quis pariatur dicta praesentium ut",
+         "status":1
+      },
+      {
+         "id":344,
+         "genreName":"Strategy",
+         "genre":[6,9,12,10],
+         "name":"maiores sed est eius omnis",
+         "status":0
+      },
+      {
+         "id":345,
+         "genreName":"Demo",
+         "genre":[10],
+         "name":"vel id",
+         "status":0
+      },
+      {
+         "id":346,
+         "genreName":"Action",
+         "genre":1,
+         "name":"et esse quidem optio cum",
+         "status":2
+      },
+      {
+         "id":347,
+         "genreName":"Battle Royale",
+         "genre":[13,8,7],
+         "name":"dolor nesciunt placeat",
+         "status":0
+      },
+      {
+         "id":348,
+         "genreName":"Demo",
+         "genre":[10],
+         "name":"id",
+         "status":2
+      },
+      {
+         "id":349,
+         "genreName":"Simulation",
+         "genre":[5,4,12,1],
+         "name":"repudiandae dolor doloribus",
+         "status":2
+      },
+      {
+         "id":350,
+         "genreName":"Adventure",
+         "genre":[14,12,10],
+         "name":"veniam nostrum in consequatur quia",
+         "status":2
+      },
+      {
+         "id":351,
+         "genreName":"Horror",
+         "genre":[11,9,8],
+         "name":"consequatur recusandae odit ut magni",
+         "status":0
+      },
+      {
+         "id":352,
+         "genreName":"Casual",
+         "genre":[9,12,14,1],
+         "name":"sapiente",
+         "status":2
+      },
+      {
+         "id":353,
+         "genreName":"Horror",
+         "genre":[11,9,8],
+         "name":"libero",
+         "status":1
+      },
+      {
+         "id":354,
+         "genreName":"Sports",
+         "genre":[8,7,0],
+         "name":"exercitationem accusantium aut optio ut",
+         "status":0
+      },
+      {
+         "id":355,
+         "genreName":"Adventure",
+         "genre":[14,12,1],
+         "name":"laborum voluptatum voluptate quas",
+         "status":2
+      },
+      {
+         "id":356,
+         "genreName":"Casual",
+         "genre":[9,12,14,1],
+         "name":"dignissimos exercitationem facere tempora",
+         "status":1
+      },
+      {
+         "id":357,
+         "genreName":"Demo",
+         "genre":[10,0],
+         "name":"natus quia velit sed deleniti",
+         "status":2
+      },
+      {
+         "id":358,
+         "genreName":"Kids/Family",
+         "genre":[8,12,1],
+         "name":"rerum",
+         "status":2
+      },
+      {
+         "id":359,
+         "genreName":"MOBA/MMO",
+         "genre":[4],
+         "name":"cum dolor laborum ipsam quidem",
+         "status":0
+      },
+      {
+         "id":360,
+         "genreName":"Battle Royale",
+         "genre":[13,8,7],
+         "name":"ipsum qui expedita",
+         "status":0
+      },
+      {
+         "id":361,
+         "genreName":"Demo",
+         "genre":[10,0],
+         "name":"vitae ut",
+         "status":2
+      },
+      {
+         "id":362,
+         "genreName":"Sports",
+         "genre":[8,7,0],
+         "name":"quidem",
+         "status":2
+      },
+      {
+         "id":363,
+         "genreName":"Strategy",
+         "genre":[6,9,12,10],
+         "name":"possimus",
+         "status":2
+      },
+      {
+         "id":364,
+         "genreName":"Sports",
+         "genre":[8,7,0],
+         "name":"magnam ea",
+         "status":2
+      },
+      {
+         "id":365,
+         "genreName":"Action",
+         "genre":1,
+         "name":"rem aperiam non",
+         "status":0
+      },
+      {
+         "id":366,
+         "genreName":"Strategy",
+         "genre":[6,9,12,10],
+         "name":"expedita autem",
+         "status":2
+      },
+      {
+         "id":367,
+         "genreName":"Adventure",
+         "genre":[14,12,1],
+         "name":"maxime beatae non minus",
+         "status":2
+      },
+      {
+         "id":368,
+         "genreName":"Shooters",
+         "genre":[0,14],
+         "name":"fugit laboriosam aut vel aspernatur",
+         "status":2
+      },
+      {
+         "id":369,
+         "genreName":"Horror",
+         "genre":[11,9,14],
+         "name":"dolor quisquam placeat laudantium nemo",
+         "status":2
+      },
+      {
+         "id":370,
+         "genreName":"Action",
+         "genre":1,
+         "name":"adipisci maiores ut harum",
+         "status":0
+      },
+      {
+         "id":371,
+         "genreName":"Platformer",
+         "genre":[12,5,2],
+         "name":"officiis itaque pariatur",
+         "status":0
+      },
+      {
+         "id":372,
+         "genreName":"Adventure",
+         "genre":[14,12,1],
+         "name":"in eaque quisquam",
+         "status":0
+      },
+      {
+         "id":373,
+         "genreName":"Strategy",
+         "genre":[6,9,12,10],
+         "name":"doloremque ut",
+         "status":2
+      },
+      {
+         "id":374,
+         "genreName":"Sports",
+         "genre":[8,7,0],
+         "name":"quas aliquid enim",
+         "status":1
+      },
+      {
+         "id":375,
+         "genreName":"Strategy",
+         "genre":[6,1,10],
+         "name":"quas maxime",
+         "status":0
+      },
+      {
+         "id":376,
+         "genreName":"Platformer",
+         "genre":[12,5,2],
+         "name":"vel rerum nesciunt quis",
+         "status":2
+      },
+      {
+         "id":377,
+         "genreName":"Battle Royale",
+         "genre":[13],
+         "name":"repellat enim voluptas iste quis",
+         "status":0
+      },
+      {
+         "id":378,
+         "genreName":"RPG",
+         "genre":2,
+         "name":"est est earum",
+         "status":0
+      },
+      {
+         "id":379,
+         "genreName":"Shooters",
+         "genre":[0,12],
+         "name":"neque vel a dolores",
+         "status":2
+      },
+      {
+         "id":380,
+         "genreName":"Simulation",
+         "genre":[5,4,12,1],
+         "name":"mollitia rerum excepturi ut eveniet",
+         "status":1
+      },
+      {
+         "id":381,
+         "genreName":"Casual",
+         "genre":[9,0],
+         "name":"dolorum",
+         "status":0
+      },
+      {
+         "id":382,
+         "genreName":"Open World",
+         "genre":[15,14,1],
+         "name":"suscipit rem sint",
+         "status":0
+      },
+      {
+         "id":383,
+         "genreName":"MOBA/MMO",
+         "genre":[4],
+         "name":"aut enim distinctio recusandae suscipit",
+         "status":2
+      },
+      {
+         "id":384,
+         "genreName":"Sports",
+         "genre":[7,0],
+         "name":"unde",
+         "status":2
+      },
+      {
+         "id":385,
+         "genreName":"Kids/Family",
+         "genre":[8,12,1],
+         "name":"autem neque ullam ut distinctio",
+         "status":0
+      },
+      {
+         "id":386,
+         "genreName":"Battle Royale",
+         "genre":[13],
+         "name":"quas veritatis rerum",
+         "status":0
+      },
+      {
+         "id":387,
+         "genreName":"MOBA/MMO",
+         "genre":[4],
+         "name":"quis tempora",
+         "status":2
+      },
+      {
+         "id":388,
+         "genreName":"Racing",
+         "genre":[3,8],
+         "name":"et",
+         "status":1
+      },
+      {
+         "id":389,
+         "genreName":"Adventure",
+         "genre":[14],
+         "name":"blanditiis et in quo",
+         "status":2
+      },
+      {
+         "id":390,
+         "genreName":"Horror",
+         "genre":[11,9,14],
+         "name":"voluptatum necessitatibus totam",
+         "status":0
+      },
+      {
+         "id":391,
+         "genreName":"Shooters",
+         "genre":[0,12,3],
+         "name":"enim veniam dolorem aut corporis",
+         "status":0
+      },
+      {
+         "id":392,
+         "genreName":"Racing",
+         "genre":[3,8],
+         "name":"natus quibusdam voluptas harum",
+         "status":1
+      },
+      {
+         "id":393,
+         "genreName":"Simulation",
+         "genre":[5,4,15,1],
+         "name":"est rerum sequi",
+         "status":1
+      },
+      {
+         "id":394,
+         "genreName":"Kids/Family",
+         "genre":[8,12,1],
+         "name":"maxime eaque quae at nam",
+         "status":2
+      },
+      {
+         "id":395,
+         "genreName":"Platformer",
+         "genre":[12,5,2],
+         "name":"accusantium quia sit",
+         "status":0
+      },
+      {
+         "id":396,
+         "genreName":"Open World",
+         "genre":[15,0],
+         "name":"exercitationem omnis praesentium voluptatum",
+         "status":0
+      },
+      {
+         "id":397,
+         "genreName":"Strategy",
+         "genre":[6,1,10],
+         "name":"assumenda",
+         "status":0
+      },
+      {
+         "id":398,
+         "genreName":"Racing",
+         "genre":[3,8],
+         "name":"eos exercitationem accusamus consequuntur itaque",
+         "status":2
+      },
+      {
+         "id":399,
+         "genreName":"RPG",
+         "genre":2,
+         "name":"aut rerum dolor sit",
+         "status":1
+      },
+      {
+         "id":400,
+         "genreName":"Simulation",
+         "genre":[5,4,0,1],
+         "name":"esse",
+         "status":0
+      },
+      {
+         "id":401,
+         "genreName":"Open World",
+         "genre":[15,0],
+         "name":"itaque fugit repudiandae quidem quis",
+         "status":1
+      },
+      {
+         "id":402,
+         "genreName":"Open World",
+         "genre":[15,0],
+         "name":"laboriosam non libero sint ullam",
+         "status":0
+      },
+      {
+         "id":403,
+         "genreName":"Open World",
+         "genre":[15],
+         "name":"dolorum libero tempora nesciunt",
+         "status":0
+      },
+      {
+         "id":404,
+         "genreName":"Shooters",
+         "genre":[0,12,3],
+         "name":"impedit alias",
+         "status":1
+      },
+      {
+         "id":405,
+         "genreName":"Simulation",
+         "genre":[5,4,0,1],
+         "name":"eum ullam velit consequuntur sit",
+         "status":0
+      },
+      {
+         "id":406,
+         "genreName":"Kids/Family",
+         "genre":[8,1],
+         "name":"dicta deleniti",
+         "status":2
+      },
+      {
+         "id":407,
+         "genreName":"Racing",
+         "genre":[3,8,13],
+         "name":"ducimus",
+         "status":1
+      },
+      {
+         "id":408,
+         "genreName":"Platformer",
+         "genre":[12,5,2],
+         "name":"maxime voluptas",
+         "status":0
+      },
+      {
+         "id":409,
+         "genreName":"Horror",
+         "genre":[11,5,2],
+         "name":"sit totam qui aliquam error",
+         "status":0
+      },
+      {
+         "id":410,
+         "genreName":"Action",
+         "genre":1,
+         "name":"omnis",
+         "status":2
+      },
+      {
+         "id":411,
+         "genreName":"Open World",
+         "genre":[15],
+         "name":"quia",
+         "status":2
+      },
+      {
+         "id":412,
+         "genreName":"Open World",
+         "genre":[15],
+         "name":"et voluptatibus",
+         "status":1
+      },
+      {
+         "id":413,
+         "genreName":"Simulation",
+         "genre":[5,4,0,1],
+         "name":"ad officiis",
+         "status":1
+      },
+      {
+         "id":414,
+         "genreName":"Action",
+         "genre":1,
+         "name":"illo quia aut",
+         "status":0
+      },
+      {
+         "id":415,
+         "genreName":"Shooters",
+         "genre":[0,12,3],
+         "name":"cumque vel repellendus sapiente temporibus",
+         "status":0
+      },
+      {
+         "id":416,
+         "genreName":"Platformer",
+         "genre":[14,12,1],
+         "name":"harum enim maxime quia",
+         "status":1
+      },
+      {
+         "id":417,
+         "genreName":"RPG",
+         "genre":2,
+         "name":"accusamus autem",
+         "status":2
+      },
+      {
+         "id":418,
+         "genreName":"RPG",
+         "genre":2,
+         "name":"deserunt natus corrupti",
+         "status":0
+      },
+      {
+         "id":419,
+         "genreName":"Platformer",
+         "genre":[14,12,1],
+         "name":"quos",
+         "status":1
+      },
+      {
+         "id":420,
+         "genreName":"Battle Royale",
+         "genre":[13],
+         "name":"accusantium consequatur quidem corporis",
+         "status":0
+      },
+      {
+         "id":421,
+         "genreName":"Simulation",
+         "genre":[5,0,1],
+         "name":"in",
+         "status":1
+      },
+      {
+         "id":422,
+         "genreName":"Shooters",
+         "genre":[0,3],
+         "name":"perspiciatis rerum",
+         "status":1
+      },
+      {
+         "id":423,
+         "genreName":"Kids/Family",
+         "genre":[8,1],
+         "name":"molestiae quia expedita alias et",
+         "status":1
+      },
+      {
+         "id":424,
+         "genreName":"Open World",
+         "genre":[15],
+         "name":"tenetur",
+         "status":1
+      },
+      {
+         "id":425,
+         "genreName":"Open World",
+         "genre":[15],
+         "name":"alias numquam dolore",
+         "status":0
+      },
+      {
+         "id":426,
+         "genreName":"Demo",
+         "genre":[11,10,14],
+         "name":"est rerum et aspernatur illum",
+         "status":0
+      },
+      {
+         "id":427,
+         "genreName":"Simulation",
+         "genre":[5,0,1],
+         "name":"distinctio esse magni vel repellendus",
+         "status":1
+      },
+      {
+         "id":428,
+         "genreName":"Sports",
+         "genre":[7,0],
+         "name":"est voluptatem incidunt qui id",
+         "status":0
+      },
+      {
+         "id":429,
+         "genreName":"Action",
+         "genre":1,
+         "name":"corporis ducimus sequi maxime",
+         "status":0
+      },
+      {
+         "id":430,
+         "genreName":"Strategy",
+         "genre":[6,1,10],
+         "name":"harum",
+         "status":1
+      },
+      {
+         "id":431,
+         "genreName":"Action",
+         "genre":1,
+         "name":"debitis sint",
+         "status":2
+      },
+      {
+         "id":432,
+         "genreName":"Simulation",
+         "genre":[5,0,1],
+         "name":"dolores nihil molestias alias dolor",
+         "status":1
+      },
+      {
+         "id":433,
+         "genreName":"Open World",
+         "genre":[15,1],
+         "name":"saepe sequi",
+         "status":1
+      },
+      {
+         "id":434,
+         "genreName":"Adventure",
+         "genre":[14],
+         "name":"dolore recusandae perspiciatis",
+         "status":1
+      },
+      {
+         "id":435,
+         "genreName":"Sports",
+         "genre":[7],
+         "name":"nesciunt ea excepturi minima",
+         "status":2
+      },
+      {
+         "id":436,
+         "genreName":"Kids/Family",
+         "genre":[8,0],
+         "name":"vel perspiciatis",
+         "status":2
+      },
+      {
+         "id":437,
+         "genreName":"Horror",
+         "genre":[11,5,2],
+         "name":"velit in",
+         "status":1
+      },
+      {
+         "id":438,
+         "genreName":"Adventure",
+         "genre":[14],
+         "name":"recusandae quidem",
+         "status":1
+      },
+      {
+         "id":439,
+         "genreName":"Open World",
+         "genre":[15,1],
+         "name":"dolor eum odio itaque",
+         "status":2
+      },
+      {
+         "id":440,
+         "genreName":"Strategy",
+         "genre":[6,1,10],
+         "name":"ab",
+         "status":1
+      },
+      {
+         "id":441,
+         "genreName":"Shooters",
+         "genre":[0,3],
+         "name":"sunt",
+         "status":2
+      },
+      {
+         "id":442,
+         "genreName":"Kids/Family",
+         "genre":[8,0],
+         "name":"nisi eum in non praesentium",
+         "status":1
+      },
+      {
+         "id":443,
+         "genreName":"Adventure",
+         "genre":[14],
+         "name":"quis quia quia",
+         "status":2
+      },
+      {
+         "id":444,
+         "genreName":"Platformer",
+         "genre":[14,12,1],
+         "name":"quas ut ab",
+         "status":0
+      },
+      {
+         "id":445,
+         "genreName":"Strategy",
+         "genre":[6,0],
+         "name":"similique suscipit possimus",
+         "status":2
+      },
+      {
+         "id":446,
+         "genreName":"Platformer",
+         "genre":[12,1],
+         "name":"officiis ut odit aut modi",
+         "status":1
+      },
+      {
+         "id":447,
+         "genreName":"Battle Royale",
+         "genre":[13],
+         "name":"numquam quasi",
+         "status":2
+      },
+      {
+         "id":448,
+         "genreName":"Action",
+         "genre":1,
+         "name":"est reiciendis minima voluptatem harum",
+         "status":1
+      },
+      {
+         "id":449,
+         "genreName":"Action",
+         "genre":1,
+         "name":"occaecati",
+         "status":2
+      },
+      {
+         "id":450,
+         "genreName":"MOBA/MMO",
+         "genre":[4],
+         "name":"qui est sint",
+         "status":0
+      },
+      {
+         "id":451,
+         "genreName":"Open World",
+         "genre":[15,1,12],
+         "name":"magnam asperiores eos et nihil",
+         "status":0
+      },
+      {
+         "id":452,
+         "genreName":"Adventure",
+         "genre":[14],
+         "name":"ea",
+         "status":2
+      },
+      {
+         "id":453,
+         "genreName":"Horror",
+         "genre":[11,5,2],
+         "name":"tempora magnam error asperiores et",
+         "status":0
+      },
+      {
+         "id":454,
+         "genreName":"Adventure",
+         "genre":[14],
+         "name":"numquam ea",
+         "status":2
+      },
+      {
+         "id":455,
+         "genreName":"Open World",
+         "genre":[15,1,12],
+         "name":"itaque aperiam fugit harum nostrum",
+         "status":2
+      },
+      {
+         "id":456,
+         "genreName":"Racing",
+         "genre":[3,8,13],
+         "name":"suscipit officiis quia et",
+         "status":0
+      },
+      {
+         "id":457,
+         "genreName":"MOBA/MMO",
+         "genre":[4],
+         "name":"est quae",
+         "status":1
+      },
+      {
+         "id":458,
+         "genreName":"Horror",
+         "genre":[11,5,2],
+         "name":"voluptatem nisi quisquam eum",
+         "status":2
+      },
+      {
+         "id":459,
+         "genreName":"Adventure",
+         "genre":[14,1],
+         "name":"quia quae tempore",
+         "status":0
+      },
+      {
+         "id":460,
+         "genreName":"MOBA/MMO",
+         "genre":[4,9],
+         "name":"praesentium quasi perferendis quos",
+         "status":0
+      },
+      {
+         "id":461,
+         "genreName":"Simulation",
+         "genre":[5,0],
+         "name":"itaque eum voluptas debitis fugiat",
+         "status":1
+      },
+      {
+         "id":462,
+         "genreName":"Battle Royale",
+         "genre":[13],
+         "name":"ut nesciunt doloribus qui",
+         "status":1
+      },
+      {
+         "id":463,
+         "genreName":"Shooters",
+         "genre":[0,3],
+         "name":"perspiciatis et excepturi odit",
+         "status":0
+      },
+      {
+         "id":464,
+         "genreName":"Horror",
+         "genre":[11,5],
+         "name":"repudiandae rerum aliquam",
+         "status":2
+      },
+      {
+         "id":465,
+         "genreName":"MOBA/MMO",
+         "genre":[4,9],
+         "name":"natus soluta",
+         "status":0
+      },
+      {
+         "id":466,
+         "genreName":"Platformer",
+         "genre":[12,1],
+         "name":"saepe nulla",
+         "status":0
+      },
+      {
+         "id":467,
+         "genreName":"Kids/Family",
+         "genre":[8,10],
+         "name":"aliquam maxime",
+         "status":1
+      },
+      {
+         "id":468,
+         "genreName":"Platformer",
+         "genre":[12,1],
+         "name":"eius",
+         "status":1
+      },
+      {
+         "id":469,
+         "genreName":"Strategy",
+         "genre":[6,0],
+         "name":"aut amet incidunt consequatur laborum",
+         "status":0
+      },
+      {
+         "id":470,
+         "genreName":"Horror",
+         "genre":[11,5],
+         "name":"quam laborum autem perferendis dolore",
+         "status":0
+      },
+      {
+         "id":471,
+         "genreName":"Horror",
+         "genre":[11,5],
+         "name":"doloribus nobis ducimus autem aliquam",
+         "status":2
+      },
+      {
+         "id":472,
+         "genreName":"Sports",
+         "genre":[7],
+         "name":"hic aut iste amet necessitatibus",
+         "status":2
+      },
+      {
+         "id":473,
+         "genreName":"Racing",
+         "genre":[3,13],
+         "name":"voluptate non ut voluptas fugit",
+         "status":0
+      },
+      {
+         "id":474,
+         "genreName":"Platformer",
+         "genre":[12],
+         "name":"deserunt",
+         "status":1
+      },
+      {
+         "id":475,
+         "genreName":"Shooters",
+         "genre":[0,9],
+         "name":"voluptatum ipsam sit sed architecto",
+         "status":1
+      },
+      {
+         "id":476,
+         "genreName":"Open World",
+         "genre":[15,1,12],
+         "name":"iste nemo beatae non",
+         "status":1
+      },
+      {
+         "id":477,
+         "genreName":"Kids/Family",
+         "genre":[8,10],
+         "name":"sequi",
+         "status":1
+      },
+      {
+         "id":478,
+         "genreName":"Shooters",
+         "genre":[0,9],
+         "name":"voluptatibus laborum maxime",
+         "status":1
+      },
+      {
+         "id":479,
+         "genreName":"Racing",
+         "genre":[3,7],
+         "name":"alias et quia modi vel",
+         "status":2
+      },
+      {
+         "id":480,
+         "genreName":"Sports",
+         "genre":[7],
+         "name":"pariatur qui",
+         "status":2
+      },
+      {
+         "id":481,
+         "genreName":"Demo",
+         "genre":[11,10,14],
+         "name":"velit architecto",
+         "status":1
+      },
+      {
+         "id":482,
+         "genreName":"Kids/Family",
+         "genre":[8,10],
+         "name":"provident nulla",
+         "status":1
+      },
+      {
+         "id":483,
+         "genreName":"Strategy",
+         "genre":[6,0],
+         "name":"officiis qui unde minima",
+         "status":1
+      },
+      {
+         "id":484,
+         "genreName":"Casual",
+         "genre":[9,0],
+         "name":"aut repellat voluptates consequuntur",
+         "status":0
+      },
+      {
+         "id":485,
+         "genreName":"Battle Royale",
+         "genre":[13],
+         "name":"pariatur ut",
+         "status":1
+      },
+      {
+         "id":486,
+         "genreName":"Action",
+         "genre":1,
+         "name":"cumque totam et",
+         "status":0
+      },
+      {
+         "id":487,
+         "genreName":"Casual",
+         "genre":[9,0],
+         "name":"quis explicabo",
+         "status":2
+      },
+      {
+         "id":488,
+         "genreName":"RPG",
+         "genre":2,
+         "name":"consectetur quia inventore",
+         "status":2
+      },
+      {
+         "id":489,
+         "genreName":"Sports",
+         "genre":[7],
+         "name":"deserunt dolorum mollitia quibusdam",
+         "status":0
+      },
+      {
+         "id":490,
+         "genreName":"RPG",
+         "genre":2,
+         "name":"cupiditate accusamus aperiam doloremque",
+         "status":0
+      },
+      {
+         "id":491,
+         "genreName":"Open World",
+         "genre":[15,1,12],
+         "name":"ea hic",
+         "status":0
+      },
+      {
+         "id":492,
+         "genreName":"Battle Royale",
+         "genre":[13],
+         "name":"sunt",
+         "status":2
+      },
+      {
+         "id":493,
+         "genreName":"Adventure",
+         "genre":[14,1],
+         "name":"neque quae inventore reprehenderit",
+         "status":2
+      },
+      {
+         "id":494,
+         "genreName":"Simulation",
+         "genre":[5,9],
+         "name":"excepturi autem expedita praesentium optio",
+         "status":2
+      },
+      {
+         "id":495,
+         "genreName":"Simulation",
+         "genre":[5,9],
+         "name":"sapiente accusamus quo et a",
+         "status":0
+      },
+      {
+         "id":496,
+         "genreName":"Open World",
+         "genre":[15,13,1],
+         "name":"similique temporibus facere",
+         "status":0
+      },
+      {
+         "id":497,
+         "genreName":"Horror",
+         "genre":[11,5],
+         "name":"aut pariatur et",
+         "status":0
+      },
+      {
+         "id":498,
+         "genreName":"Battle Royale",
+         "genre":[13],
+         "name":"quas",
+         "status":1
+      },
+      {
+         "id":499,
+         "genreName":"Open World",
+         "genre":[15,13,1],
+         "name":"vitae",
+         "status":1
+      }
+   ]
+
+
+}

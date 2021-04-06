@@ -1,0 +1,33 @@
+@import "../../../theme/variables.scss";
+.check-box-block.form-block {
+  display: flex;
+  align-items: center;
+  padding: 10px 0;
+  cursor: pointer;
+}
+.chechbox-left {
+  width: 24px;
+  height: 24px;
+  margin-right: 10px;
+  border: 1px solid var(--greyish);
+  & svg {
+    & polyline {
+      fill: none;
+      stroke-width: 2px;
+      stroke-dasharray: 30px;
+      stroke-dashoffset: 30px;
+      stroke: #fff;
+      transition: all 0.25s ease-out;
+    }
+  }
+
+  &.checked {
+    & svg {
+      & polyline {
+        stroke-width: 2px;
+        stroke-dasharray: 30px;
+        stroke-dashoffset: 0px;
+      }
+    }
+  }
+}

@@ -1,0 +1,39 @@
+.drop-down {
+  &.drop-down-opened {
+    & i {
+      transform: rotate(-180deg);
+    }
+  }
+  & i {
+    transition: transform 0.25s ease-out;
+    will-change: transform;
+    transform-origin: center;
+    transform: rotate(0deg);
+  }
+  position: relative;
+  & .input-invisible {
+    opacity: 0;
+    pointer-events: none;
+  }
+  & .drop-down-main {
+    background-color: var(--grey-1);
+    padding: 16px;
+    cursor: pointer;
+  }
+  & .drop-down-elements-cover {
+    position: absolute;
+    background-color: var(--grey-1);
+    height: 0;
+    width: 100%;
+    overflow: hidden;
+    transition: height 0.25s ease-out;
+    & .drop-down-item {
+      padding: 16px;
+      cursor: pointer;
+
+      &:hover {
+        background-color: var(--greyish);
+      }
+    }
+  }
+}

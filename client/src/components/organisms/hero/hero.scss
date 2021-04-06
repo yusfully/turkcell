@@ -1,0 +1,156 @@
+@import "../../../theme/variables.scss";
+.hero {
+  height: 400px;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  background-color: #333;
+  & .pattern {
+    position: relative;
+    z-index: 1;
+  }
+  & .bg-bg {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    top: 0;
+    z-index: 0;
+  }
+  & .title {
+    color: var(--secondary-bg);
+    line-height: 1.2em;
+  }
+  & .container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    z-index: 1;
+  }
+  & .bg {
+    position: absolute;
+  }
+}
+.st0 {
+  fill: none;
+}
+.st1 {
+  fill: #1d1e1c;
+}
+.st2 {
+  clip-path: url(#SVGID_2_);
+  fill: #591615;
+}
+.st3 {
+  clip-path: url(#SVGID_4_);
+  fill: #1d1e1c;
+}
+.st4 {
+  clip-path: url(#SVGID_6_);
+  fill: #591615;
+}
+.st5 {
+  clip-path: url(#SVGID_8_);
+  fill: #591615;
+}
+.st6 {
+  clip-path: url(#SVGID_10_);
+  fill: #591615;
+}
+.st7 {
+  clip-path: url(#SVGID_12_);
+  fill: #1d1e1c;
+}
+.st8 {
+  clip-path: url(#SVGID_14_);
+  fill: #1d1e1c;
+}
+.st9 {
+  clip-path: url(#SVGID_16_);
+  fill: #591615;
+}
+.st10 {
+  clip-path: url(#SVGID_18_);
+  fill: #1d1e1c;
+}
+.st11 {
+  clip-path: url(#SVGID_20_);
+  fill: #1d1e1c;
+}
+.st12 {
+  clip-path: url(#SVGID_22_);
+  fill: #1d1e1c;
+}
+.st13 {
+  clip-path: url(#SVGID_24_);
+  fill: #1d1e1c;
+}
+.st14 {
+  clip-path: url(#SVGID_26_);
+  fill: #591615;
+}
+.st15 {
+  clip-path: url(#SVGID_28_);
+  fill: #591615;
+}
+.st16 {
+  clip-path: url(#SVGID_30_);
+  fill: #1d1e1c;
+}
+.st17 {
+  clip-path: url(#SVGID_32_);
+  fill: #591615;
+}
+.st18 {
+  clip-path: url(#SVGID_34_);
+  fill: #1d1e1c;
+}
+.st19 {
+  fill: url(#SVGID_35_);
+}
+.st20 {
+  fill: url(#SVGID_36_);
+}
+@function randomNum($min, $max) {
+  $rand: random();
+  $randomNum: $min + floor($rand * (($max - $min) + 1));
+
+  @return $randomNum;
+}
+@for $i from 1 through 20 {
+  @keyframes particle-animation-#{$i} {
+    100% {
+      transform: translate3d(
+          (randomNum(120, -60) * 1vw),
+          (randomNum(80, -60) * 1vh),
+          (0)
+        )
+        rotate(360 * 1deg);
+    }
+  }
+
+  .particle:nth-child(#{$i}) {
+    animation: particle-animation-#{$i}
+      randomNum(10, 20) +
+      s
+      infinite
+      alternate-reverse;
+    $size: randomNum(100, 400) + px;
+
+    height: 0;
+    width: 0;
+    box-shadow: 0 0 100px 100px var(--primary-green);
+
+    position: absolute;
+    animation-delay: randomNum(1, 20) s;
+    transform: translate3d(
+        (randomNum(120, -60) * 1vw),
+        (randomNum(80, -60) * 1vh),
+        (0)
+      )
+      rotate(0 * 1deg);
+  }
+}

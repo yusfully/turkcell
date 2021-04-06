@@ -1,0 +1,124 @@
+$gridBase: (
+  "1of1": 100%,
+  "1of2": 50%,
+  "1of3": 33.3333%,
+  "2of3": 66.6666%,
+  "1of4": 25%,
+  "2of4": 50%,
+  "3of4": 75%,
+  "1of5": 20%,
+  "2of5": 40%,
+  "3of5": 60%,
+  "4of5": 80%,
+  "1of6": 16.6666%,
+  "2of6": 33.3333%,
+  "4of6": 66.6666%,
+  "5of6": 83.3333%,
+);
+
+$grid-breakpoints: $screen-small, $screen-medium, $screen-large,
+  $screen-extralarge !default;
+
+@each $colName, $colSize in $gridBase {
+  .g-#{$colName} {
+    width: $colSize;
+  }
+
+  @if $colSize != "100%" {
+    .g-offset-#{$colName} {
+      margin-left: $colSize;
+    }
+  }
+  @for $i from 1 through length($grid-breakpoints) {
+    @include respond-to-min(#{nth($grid-breakpoints, $i)}) {
+      .g#{$i}-#{$colName} {
+        width: $colSize;
+      }
+
+      @if $colSize != "100%" {
+        .g#{$i}-offset-#{$colName} {
+          margin-left: $colSize;
+        }
+      }
+
+      $j: $i;
+
+      @while $j >= 0 {
+        @if $colName == "1of1" and $j != $i and $j != 0 {
+          .g#{$j}-block {
+            display: none !important;
+          }
+        }
+        @elseif $colName == '1of1' and $j == 0 {
+          .g-block {
+            display: none !important;
+          }
+        }
+
+        $j: $j - 1;
+      }
+
+      @if $colName == "1of1" {
+        .g#{$i}-block {
+          display: block !important;
+        }
+        .flex-row {
+          display: block;
+        }
+        .g#{$i}-grid-reset {
+          width: auto;
+        }
+      } @else {
+        .flex-row {
+          display: flex;
+        }
+      }
+    }
+  }
+}
+
+.row:before,
+.row:after {
+  content: " ";
+  display: table;
+}
+
+.row:after {
+  clear: both;
+}
+
+.row {
+  margin-left: -$spacing * 2;
+  margin-right: -$spacing * 2;
+
+  &.row-quarter {
+    margin-left: -$spacing * 0.5;
+    margin-right: -$spacing * 0.5;
+  }
+
+  &.row-double {
+    margin-left: -$spacing * 4;
+    margin-right: -$spacing * 4;
+  }
+}
+
+.col {
+  float: left;
+  padding-left: $spacing * 2;
+  padding-right: $spacing * 2;
+
+  .row-quarter > & {
+    padding-left: $spacing * 0.5;
+    padding-right: $spacing * 0.5;
+  }
+
+  .footer & {
+    padding-left: $spacing * 4;
+    padding-right: $spacing * 4;
+  }
+}
+
+.last-col {
+  float: none;
+  width: auto;
+}
